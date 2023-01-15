@@ -1,0 +1,19 @@
+{
+  "name": "calendar-app-backend",
+  "version": "1.0.0",
+  "description": "backend implementation for a calendar web application using Node and Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henryfan03/CalendarAppBackend.git"
+  },
+  "author": "Ian Clarke, Henry Fan, Emmy Veselinov, John Zhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/henryfan03/CalendarAppBackend/issues"
+  },
+  "homepage": "https://github.com/henryfan03/CalendarAppBackend#readme"
+}
