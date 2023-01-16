@@ -6,4 +6,4 @@ const app = express()
 
 app.use('/api/tasks', require('./routes/taskRoutes'))
 
-app.listen(port, () => console.log(`Sever has started on port ${port}`))
+app.listen(port, () => console.log(`Server has started on port ${port}`))
