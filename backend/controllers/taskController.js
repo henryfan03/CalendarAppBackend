@@ -6,7 +6,7 @@ const getTasks = (req, res) => {
 }
 
 // @description - sets a task of a user
-// @route - GET /api/goals
+// @route - POST /api/goals
 // @access - Private
 const setTask = (req, res) => {
     res.status(200).json({message: "Set task"})
